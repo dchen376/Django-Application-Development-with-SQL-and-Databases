@@ -43,21 +43,21 @@ It’s time to build your skills by creating a Django web app. In this module, y
 
 Add to your Django skills by building a class-based view. Then, learn how to speed up development using Django’s generic-based views. Next, you’ll learn about authentication and authorization in Django. Create a User model to handle authentication and work with other models to handle authorization. Create web login, log out, and registration forms. Assign permissions to models and user groups. You’ll then move on to Bootstrap, a free and open-source web front-end framework. Learn how to quickly add Bootstrap to your Django template to build stylized and interactive web pages. Next, explore how to add static files to your apps. Learn how Django manages static files in development and deployment environments. Learn about the webserver interfaces supported by Django. And discover how Infrastructure as a Service and Platform as a Service offerings can streamline app deployment. Explore the benefits of deploying Django apps on IBM Cloud.
 ##### Learning Objectives
-Create class-based and generic class-based views.
-Compare the pros and cons of function-based views and class-based views.
-Define authentication and authorization.
-Use Django User objects to perform authentication and authorization.
-Describe Bootstrap.
-Integrate Bootstrap into your Django template.
-Explain how Django manages static files such as CSS and media files.
-Explain how Django apps are deployed on web servers.
-Describe IBM Cloud platforms and their benefits
+- Create class-based and generic class-based views.
+- Compare the pros and cons of function-based views and class-based views.
+- Define authentication and authorization.
+- Use Django User objects to perform authentication and authorization.
+- Describe Bootstrap.
+- Integrate Bootstrap into your Django template.
+- Explain how Django manages static files such as CSS and media files.
+- Explain how Django apps are deployed on web servers.
+- Describe IBM Cloud platforms and their benefits
 
 ### week5 - Final Project: Enhance Online Course App with New Features
 
 Welcome to the culmination of your learning journey in this Django course. In this module, you will apply your new skills and knowledge to improve applications in a practice project and a peer-reviewed final project.
 ##### Learning Objectives
-Assess your knowledge of SQL, databases, and security skills with cloud apps.
-Demonstrate mastery of skills and knowledge acquired in the Using SQL, Databases, and Security with Cloud Apps course.
-Add new features to a Django online course app.
+- Assess your knowledge of SQL, databases, and security skills with cloud apps.
+- Demonstrate mastery of skills and knowledge acquired in the Using SQL, Databases, and Security with Cloud Apps course.
+- Add new features to a Django online course app.
 
