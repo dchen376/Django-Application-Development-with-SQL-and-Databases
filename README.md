@@ -55,3 +55,9 @@ Describe IBM Cloud platforms and their benefits
 
 ### week5 - Final Project: Enhance Online Course App with New Features
 
+Welcome to the culmination of your learning journey in this Django course. In this module, you will apply your new skills and knowledge to improve applications in a practice project and a peer-reviewed final project.
+##### Learning Objectives
+Assess your knowledge of SQL, databases, and security skills with cloud apps.
+Demonstrate mastery of skills and knowledge acquired in the Using SQL, Databases, and Security with Cloud Apps course.
+Add new features to a Django online course app.
+
