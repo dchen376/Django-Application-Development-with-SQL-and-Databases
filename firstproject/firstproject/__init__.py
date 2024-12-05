@@ -1,0 +1,1 @@
+# A folder called firstproject will be created which is a container wrapping up settings and configurations for a Django project.
